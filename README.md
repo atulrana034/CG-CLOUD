@@ -1,2 +1,2 @@
 # CG-CLOUD
-Author - Atul Rana
+Author - Atul Singh Rana
